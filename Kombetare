@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Muse.al" group-title="Channels",Klan
+http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="TipTv.al" group-title="Channels",Top Channel
+http://45.67.156.128/live/topch.m3u8
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",Klan Kosova
+http://95.107.132.104/out/u/402_1.m3u8
+#EXTINF:0 tvg-id="360-tunebox" group-title="Channels",Rtsh Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",Abc News
+http://95.107.132.131:3344/udp/235.0.0.2:9009.m3u8
+#EXTINF:0 tvg-id="RTVMONTENEGROSat.rs" group-title="Channels",Tring Super
+http://84.22.33.254/unicast.tringsuper/index.m3u8
+#EXTINF:0 tvg-id="3Plus.al" group-title="Channels",3 PLUS
+http://185.186.81.50:8003/play/a0ap.m3u8
